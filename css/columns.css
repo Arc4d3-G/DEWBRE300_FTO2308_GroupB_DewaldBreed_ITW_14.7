@@ -3,6 +3,9 @@ ul {
     width: 75vw;
 
     /* add solution here */
+    display:flex;
+    justify-content: space-evenly;
+    
 }
 
 li {
@@ -11,5 +14,6 @@ li {
     background-color: rgb(245, 173, 41);
 
     /* add solution here.. */
+    flex: 1 1 0;
 
 }
